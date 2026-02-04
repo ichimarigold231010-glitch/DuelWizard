@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public class Wizard
+{
+    public string nama;
+    public int nyawa;
+    public int damage;
+
+    public void 
+}
